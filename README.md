@@ -1,7 +1,7 @@
-- 👋 Hi, I’m self-employed data scientist with focus on AI 
-- I consult on strategy building, ideation & innovation, planning & consepts, project management, and implementation of analytics services
+- I’m self-employed data scientist with focus on ML & AI 
+- I consult on strategy building, planning & concepts, project management, and implementation of analytics innovative services
 - Background: computational physicist with +20 yrs of experience from advanced analytics, +10 yrs in industry (manufacturing, transportation, energy, finance)
-- Interests: AI trends, lean / agile R&D, use of AutoML, simple and easy to maintain designs, open source technologies
+- Interests: AI for time series data, lean / agile R&D, use of AutoML, simple and easy to maintain designs, functional programming, and open source 
 
 <!---
 czanalytics/czanalytics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
